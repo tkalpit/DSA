@@ -13,7 +13,7 @@ class SinglyLinkedList {
   }
   push(val) {
     let newNode = new Node(val);
-    if (!this.head) { // When there is not node present in the list
+    if (!this.head) { // When there is no node present in the list
       this.head = newNode;
       this.tail = this.head;
     } else { //When there is some node already present in the list
@@ -56,7 +56,7 @@ class SinglyLinkedList {
   unshift(val) {
     let newNode = new Node(val);
     let prevHead = this.head;
-    if (!this.head) { // When there is not node present in the list
+    if (!this.head) { // When there is no node present in the list
       this.head = newNode;
       this.tail = this.head;
     } else { //When there is some node already present in the list
