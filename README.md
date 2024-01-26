@@ -1,14 +1,31 @@
-## DSA with JavaScript
+# DSA with JavaScript
 
-1. Problem Solving Approaches:
-   1.1 DivideConquer
-   1.2 FrequencyCounter
-   1.3 MultiplePointer
-   1.4 SlidingWindow
+### Problem Solving Approaches:
 
-2. Class and object in javascript (BasicClass.js)
-3. Linked Lists:
-   3.1 Singly Linked List
-   3.2 Doubly Linked List
-4. Stack
-5. Queue
+- Divide Conquer
+- Frequency Counter
+- Multiple Pointer
+- Sliding Window
+
+### Class and object in javascript (BasicClass.js)
+
+### Linked Lists:
+
+- Singly Linked List
+- Doubly Linked List
+
+### Stack
+
+- Push
+- Pop
+
+### Queue
+
+- Enqueue
+- Dequeue
+
+### Trees
+
+- Binary Search Tree
+- Binary Heap
+  - Max Binary Heap
