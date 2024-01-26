@@ -79,3 +79,10 @@ heap.insert(55);
 // MinBinaryHeap: Parent always lesser than children's.
 // FYI: Insert: Insert element in last index (push) then check inserted element with parent if greater than parent then swap with parent loop through it.
 // FYI: Remove (Extract): Remove element from first index (shift) end put last element to first index (unshift) then check the updated element with its left and right child if lesser than swap loop through it.
+ 
+// FYI: Binary heap are good for insertion and removal
+
+// ----------------Binary Heap Complexity--------------
+// Insertion: O(log n)
+// Removal: O(log n)
+// Search : O(n)
