@@ -9,6 +9,12 @@
 
 ### Class and object in javascript (BasicClass.js)
 
+### Sorting:
+
+- Merge Sort
+- Quick Sort
+- Radix Sort
+
 ### Linked Lists:
 
 - Singly Linked List
@@ -29,3 +35,4 @@
 - Binary Search Tree
 - Binary Heap
   - Max Binary Heap
+  - Priority Queue
