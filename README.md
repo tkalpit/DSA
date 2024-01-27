@@ -36,3 +36,7 @@
 - Binary Heap
   - Max Binary Heap
   - Priority Queue
+
+### Hash Table
+ - Implement own hash table functionality.
+ - Check JavaScript Map.
