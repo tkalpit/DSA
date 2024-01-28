@@ -33,10 +33,19 @@
 ### Trees
 
 - Binary Search Tree
+  - Implement BST (insert operation)
+  - Traversal
+    - BFS
+    - DFS (Pre-Order, In-Order, Post-Order)
 - Binary Heap
   - Max Binary Heap
   - Priority Queue
 
 ### Hash Table
- - Implement own hash table functionality.
- - Check JavaScript Map.
+
+- Implement own hash table functionality.
+- Check JavaScript Map.
+
+### Graphs
+
+- Implement graph (add, remove edge and vertex).
