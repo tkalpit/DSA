@@ -49,3 +49,6 @@
 ### Graphs
 
 - Implement graph (add, remove edge and vertex).
+- Traversal
+  - DFS
+  - BFS

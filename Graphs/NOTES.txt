@@ -12,3 +12,19 @@ Techniques to define connections between nodes:
  - Adjacency List: Nested array where index is node and values are connected node with that node.
 
 FYI: We will use adjecency list and we are building undirected graph.
+
+Graph Traversal:
+Uses:
+ - Peer to peer networking
+ - Web crawlers
+ - Finding closest
+ - Shortest path problems
+  - GPS Navigation
+  - Solving mazes
+  - AI (shortest path to win the game)
+
+DFS:
+ - First visit neighbour then neighbour's all connected nodes.
+
+BFS: 
+ - First visit all neighbour's then its connected nodes.
