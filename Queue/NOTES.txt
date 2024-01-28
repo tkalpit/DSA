@@ -1,0 +1,15 @@
+Queue: First IN First OUT
+FYI: We are implementing queue using singly linked list push and shift operations.
+1->2->3->4->5
+after dequeue
+2->3->4->5
+
+---------- Complexity--------
+Insertion: O(1)
+Removal: O(1)
+Searching: O(N)
+Access: O(N)
+
+----Usage----
+1. Processing tasks
+2. Uploading / downloading

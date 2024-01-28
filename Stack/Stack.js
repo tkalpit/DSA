@@ -43,18 +43,3 @@ stack.push(4);
 stack.push(5);
 stack.pop();
 console.log(stack);
-
-//FYI:  In the linked list adding to end and removing from end is expensive operation thats why we are doing this by shift and unshift
-// 5->4->3->2->1
-//after pop
-// 4->3->2->1
-
-// ---------- Complexity--------
-// Insertion: O(1)
-// Removal: O(1)
-// Searching: O(N)
-// Access: O(N)
-
-//----Usage----
-// 1. Undo/Redo
-// 2. Routing in react/angular

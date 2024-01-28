@@ -1,0 +1,14 @@
+Graphs: Nodes are connected to each other using edges.
+Vertex / Node: A Node.
+Edge / Connection: Connection between nodes.
+
+Types of graph:
+ - Undirected Graph: No direction defined (Request to friend in facebook).
+ - Directed Graph: Directions defined between 2 nodes. (Follow in instagram)
+ - Weighted Graph: Values are defined on edges.
+
+Techniques to define connections between nodes:
+ - Adjacency matrix: 2d Matrix define nodes 1 and 0 if connected then 1 else 0.
+ - Adjacency List: Nested array where index is node and values are connected node with that node.
+
+FYI: We will use adjecency list and we are building undirected graph.

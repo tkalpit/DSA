@@ -73,17 +73,3 @@ ht.setValue("gender", "Male");
 console.log("Get: ", ht.getValue("name"));
 console.log("Get all keys: ", ht.getAllKeys());
 console.log("Get all values: ", ht.getAllValues());
-//Hash table/map
-//Collection of key-value pairs
-
-//_hashFunc: To calculate index of key which will use to set data.
-
-// Handling collision in hash function there are 2 strategies :
-// 1. Separate Chaining: Nested array or linked list will use in separate chaining. Example: [[first], [second]] on same index.
-// 2. Linear Probing: Will look empty index if the current index has any element.
-
-// ---------Complexity--------
-//---AVG CASE--
-// Insertion: O(1)
-// Deletion: O(1)
-// Access: O(1)

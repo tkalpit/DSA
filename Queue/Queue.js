@@ -44,18 +44,3 @@ queue.enQueue(4);
 queue.enQueue(5);
 queue.deQueue();
 console.log(queue);
-
-//FYI:  push with shift
-// 1->2->3->4->5
-//after dequeue
-// 2->3->4->5
-
-// ---------- Complexity--------
-// Insertion: O(1)
-// Removal: O(1)
-// Searching: O(N)
-// Access: O(N)
-
-//----Usage----
-// 1. Processing tasks
-// 2. Uploading / downloading

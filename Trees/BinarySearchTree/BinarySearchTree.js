@@ -119,13 +119,3 @@ tree.BFSTravesal();
 tree.DFSPreOrder();
 tree.DFSPostOrder();
 tree.DFSInOrder();
-
-//Time Complexity: BEST CASE (not gureented in worst case)
-// Insertion: O(log n)
-// Searching: O(log n)
-
-//BFS: Same level tree we need to visit top to bottom
-//DFS: PreOrder, PostOrder, InOrder
-//PreOrder: First left then its right top to bottom
-//PostOrder: Bottom to top left to right
-//InOrder: Bottom to top first all left then right
