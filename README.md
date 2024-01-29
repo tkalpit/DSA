@@ -52,3 +52,4 @@
 - Traversal
   - DFS
   - BFS
+- Dijkstra's Algorithm
