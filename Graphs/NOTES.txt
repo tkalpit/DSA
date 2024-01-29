@@ -1,4 +1,4 @@
-Graphs: Nodes are connected to each other using edges.
+Graphs: Collections of vertices which are connected to each other using edges.
 Vertex / Node: A Node.
 Edge / Connection: Connection between nodes.
 
@@ -28,3 +28,14 @@ DFS:
 
 BFS: 
  - First visit all neighbour's then its connected nodes.
+
+Dijkstra's Algorithm:
+ - Used to find a shortest path from nodeA to nodeB.
+
+Uses:
+ - GPS: finding fastest route
+ - Network Routing: finds open shortest path for data.
+ - Airline tickets: finding cheapest route to your destination.
+
+FYI: We are using priority queue to find shortest path.
+ 
