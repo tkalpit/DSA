@@ -53,3 +53,7 @@
   - DFS
   - BFS
 - Dijkstra's Algorithm
+
+### Dynamic Programming
+ - Memoization (Up Bottom Approach)
+ - Tabulation (Bottom Up Approach)

@@ -1,0 +1,11 @@
+Dynamic Programming: Break down complex problem into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions.
+ - Example: Memoization
+
+Overlapping Subproblems: A problem is said to have Overlapping subproblems if it can be broken down into subproblems which are reused several times.
+ - Example: Fibonacci Sequence, Merge Sort.
+
+Optimal Substructure: A problem is said to have optimal Substructure if an optimal solution can be constructed from optimal solutions of its subproblems.
+ - Example: Shortest path
+
+Memoization: Caching result
+Tebulation: Store in array (table)
